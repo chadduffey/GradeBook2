@@ -1,0 +1,16 @@
+c:\users\harry\documents\visual studio 2015\Projects\GradeBook2\Grades.Tests\bin\Debug\Grades.Tests.dll
+c:\users\harry\documents\visual studio 2015\Projects\GradeBook2\Grades.Tests\bin\Debug\Grades.Tests.pdb
+c:\users\harry\documents\visual studio 2015\Projects\GradeBook2\Grades.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\harry\documents\visual studio 2015\Projects\GradeBook2\Grades.Tests\obj\Debug\Grades.Tests.csprojResolveAssemblyReference.cache
+c:\users\harry\documents\visual studio 2015\Projects\GradeBook2\Grades.Tests\obj\Debug\Grades.Tests.dll
+c:\users\harry\documents\visual studio 2015\Projects\GradeBook2\Grades.Tests\obj\Debug\Grades.Tests.pdb
+c:\users\harry\documents\visual studio 2015\Projects\GradeBook2\Grades.Tests\bin\Debug\GradeBook2.exe
+c:\users\harry\documents\visual studio 2015\Projects\GradeBook2\Grades.Tests\bin\Debug\GradeBook2.pdb
+C:\Users\chadd\Documents\Visual Studio 2015\Projects\GradeBook2\Grades.Tests\bin\Debug\Grades.Tests.dll
+C:\Users\chadd\Documents\Visual Studio 2015\Projects\GradeBook2\Grades.Tests\bin\Debug\Grades.Tests.pdb
+C:\Users\chadd\Documents\Visual Studio 2015\Projects\GradeBook2\Grades.Tests\bin\Debug\GradeBook2.exe
+C:\Users\chadd\Documents\Visual Studio 2015\Projects\GradeBook2\Grades.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\chadd\Documents\Visual Studio 2015\Projects\GradeBook2\Grades.Tests\bin\Debug\GradeBook2.pdb
+C:\Users\chadd\Documents\Visual Studio 2015\Projects\GradeBook2\Grades.Tests\obj\Debug\Grades.Tests.csprojResolveAssemblyReference.cache
+C:\Users\chadd\Documents\Visual Studio 2015\Projects\GradeBook2\Grades.Tests\obj\Debug\Grades.Tests.dll
+C:\Users\chadd\Documents\Visual Studio 2015\Projects\GradeBook2\Grades.Tests\obj\Debug\Grades.Tests.pdb
